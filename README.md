@@ -9,7 +9,6 @@
 </head>
 
 <body>
-  <link href="./sb/css" rel="stylesheet" type="text/css">
   
 <!-- MAIN CONTAINER -->
   <div id="main_container">
