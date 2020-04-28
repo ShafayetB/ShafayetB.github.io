@@ -1,24 +1,14 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Shafayet Bhuiyan</title>
-  
-  
-  <!--<script src="https://./Welcome!_files/code.jquery.com/jquery-3.5.0.min.map"></script>
-  <script src="https://./Welcome!_files/code.jquery.com/jquery-3.5.0.min.js"></script>-->
-      <link rel="stylesheet" href="./sb/style.css">
-
-  <!--<script
-  src="https://code.jquery.com/jquery-3.5.0.min.js"
-  integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
-  crossorigin="anonymous"></script>-->
-
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  	<title>Shafayet Bhuiyan</title>
+       <link rel="stylesheet" href="./sb/style.css">
 
 </head>
 
 <body>
-  <!--<link rel="stylesheet" href="./Welcome!_files/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
   <link href="./sb/css" rel="stylesheet" type="text/css">
   
 <!-- MAIN CONTAINER -->
