@@ -1,7 +1,7 @@
+
 <!DOCTYPE html>
-<!-- saved from url=(0026)https://shafayetb.github.io/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Shafayet Bhuiyan</title>
   
   
@@ -22,7 +22,7 @@
   <link href="./sb/css" rel="stylesheet" type="text/css">
   
 <!-- MAIN CONTAINER -->
-		<div id="main_container">
+  <div id="main_container">
       <!-- HEADER -->
       <div id="header">
         <!-- LOGOTYPE/NAME -->
@@ -133,7 +133,6 @@
           <div class="line_right"></div>
         </div>
 		
-		
 		<div class="block">
           <h1 id="awards">Awards</h1>
           <blockquote class="award">
@@ -152,16 +151,8 @@
       <div class="clear"></div>
       <!-- FOOTER -->
       <div id="footer">
-
       </div>
-</div>
+      </div>
  <!-- <script src="./Welcome!_files/jquery-3.5.0.min.map"></script>
   <script src="./Welcome!_files/index.js.download"></script>-->
-
-
-
-
-
-
-
 </body></html>
