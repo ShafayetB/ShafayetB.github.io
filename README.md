@@ -1,4 +1,6 @@
 
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -136,3 +138,9 @@
         <div class="line_right"></div>
       </div> -->
       
+   <div class="clear"></div>
+      <!-- FOOTER -->
+      <div id="footer">
+      </div>
+      </div>
+</body></html>
