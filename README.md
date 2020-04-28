@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<!-- saved from url=(0026)https://shafayetb.github.io/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <title>Shafayet Bhuiyan</title>
   <style>
   
   
-/* Utils */
 
 .clear {
 	clear: both;
