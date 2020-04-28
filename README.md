@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   	<title>Shafayet Bhuiyan</title>
@@ -130,14 +130,7 @@
           </blockquote>
         </div> 
       </div>
-      <!-- <div class="horizontal_line">
-	<div class="line_left"></div>
-        <div class="left_circle"></div>
-        <div class="central_circle"></div>
-        <div class="right_circle"></div>
-        <div class="line_right"></div>
-      </div> -->
-      
+     
    <div class="clear"></div>
       <!-- FOOTER -->
       <div id="footer">
