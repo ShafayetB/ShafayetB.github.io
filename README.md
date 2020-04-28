@@ -29,13 +29,12 @@
           <ul class="header_menu horizontal_list">
             <li><a class="no_border purple" href="https://shafayetb.github.io/#">Education</a></li>
             <li><a href="https://shafayetb.github.io/#skills">Skills</a></li>
-          
-            <li><a href="https://shafayetb.github.io/#awards">Awards</a></li>
+          <li><a href="https://shafayetb.github.io/#awards">Awards</a></li>
           </ul>
         </div>
       </div>
       <!-- LEFT COL -->
-      <div id="left_col">
+   <div id="left_col">
         <div class="profile_frame">
           <!-- <div class="profile_picture"></div> -->
           <img style="height: 100%; width: 100%" src="./sb/sb.jpg" alt="profile picture">
@@ -44,18 +43,19 @@
           <h2>Hello!</h2>
           <p>I'm passionate about technology and human behavior, hardworker and a fast-learner.</p>
         </div>
-        <div class="contact_details_content">
+  <div class="contact_details_content">
           <h2>Contact details</h2>
           <p class="purple">Phone:</p>
           <p>+8801715131849</p>
           <p class="purple">Email:</p>
-          <p>shafayet.cse@gmail.com</p>		  <!--
+          <p>shafayet.cse@gmail.com</p>		 
+	<!--
           <p class="purple">Adress:</p>
           <p>Mahakhali</p>
           <p>Dhaka, Bangladesh</p>
           <p>1212</p> -->
         </div>
-        <a href="mailto:shafayet.cse@outlook.com" class="send_message_button">
+   <a href="mailto:shafayet.cse@outlook.com" class="send_message_button">
           <span class="cut1"></span>
           <span class="cut2"></span>
           <span class="content">Send me a message <span class="fontawesome-double-angle-right"></span></span>
@@ -69,15 +69,15 @@
           -->
 		  
 		  
-			<h3 style="color: white;">Get Social</h3>
-			 <a href="https://www.facebook.com/sbshafayet/" style="color: #0000FF; font-size: 22px;">facebook</a></br>
-		  	 <a href="https://www.linkedin.com/in/shafayetbhuiyan/"  style="color:#1E90FF;; font-size: 20px;">LinkIn</a></br>
-			<a href="https://www.github.com/ShafayetB" style="color:#DC622C; font-size: 20px;">GitHub</a></br>
-			<a href="https://www.instagram.com/shafayet.bhuiyan" style="color:#FF4500; font-size: 20px;">Instagram</a>
+<h3 style="color: white;">Get Social</h3>
+<a href="https://www.facebook.com/sbshafayet/" style="color: #0000FF; font-size: 22px;">facebook</a></br>
+<a href="https://www.linkedin.com/in/shafayetbhuiyan/"  style="color:#1E90FF;; font-size: 20px;">LinkIn</a></br>
+<a href="https://www.github.com/ShafayetB" style="color:#DC622C; font-size: 20px;">GitHub</a></br>
+<a href="https://www.instagram.com/shafayet.bhuiyan" style="color:#FF4500; font-size: 20px;">Instagram</a>
 									
-		  </br></br>
+</br></br>
 		  
-      </div>
+</div>
       <!-- PROFILE CONTENT --> 
       <div id="content_container">				
         <div class="block">
@@ -86,9 +86,9 @@
               <h4>Southeast University, Dhaka</h4>
               <p>Bachelor in Computer Science and Engineering</p>
               
-        </div>
+   </div>
         
-        <div class="horizontal_line">
+   <div class="horizontal_line">
           <div class="line_left"></div>
           <div class="left_circle"></div>
           <div class="central_circle"></div>
@@ -96,7 +96,7 @@
           <div class="line_right"></div>
         </div>
         
-        <div class="block">
+   <div class="block">
           <h1 id="skills">Skills</h1>
           <!-- <blockquote> -->
             <h4>Programming Language</h4>
@@ -111,10 +111,9 @@
             <li>CSS</li>
           </ul>
           
-        </div>
+   </div>
 
-        <div class="clear"></div>
-        
+   <div class="clear"></div>
         <div class="horizontal_line">
           <div class="line_left"></div>
           <div class="left_circle"></div>
@@ -123,7 +122,7 @@
           <div class="line_right"></div>
         </div>
 		
-		<div class="block">
+<div class="block">
           <h1 id="awards">Awards</h1>
           <blockquote class="award">
             <h4>Financial Aid</h4>
@@ -132,17 +131,16 @@
         </div> 
       </div>
       <!-- <div class="horizontal_line">
-        <div class="line_left"></div>
+	<div class="line_left"></div>
         <div class="left_circle"></div>
         <div class="central_circle"></div>
         <div class="right_circle"></div>
         <div class="line_right"></div>
       </div> -->
-      <div class="clear"></div>
+      
+   <div class="clear"></div>
       <!-- FOOTER -->
       <div id="footer">
       </div>
       </div>
- <!-- <script src="./Welcome!_files/jquery-3.5.0.min.map"></script>
-  <script src="./Welcome!_files/index.js.download"></script>-->
 </body></html>
