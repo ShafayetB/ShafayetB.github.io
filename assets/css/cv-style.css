@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline
+}
+
+body {
+    font-family: arial;
+    font-size: 14px;
+    line-height: 18px;
+    color: #444444;
+    background-color: #00589C;
+    background-image: url(../images/line-1.png);
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+.my-cv{
+    margin: 100px;
+    border: 10px solid;
+    border-radius: 5px;
+    padding: 50px;
+    background-color: #f6f6f6;
+}
+.go-back-btn{
+    margin-left: 13px;
+    margin-bottom: 10px;
+    background-color: #E7B840;
+    border: none;
+    padding: 8px 20px;
+    color: #ffffff;
+    border-radius: 3px;
+    box-shadow: 4px 4px 5px #444444;
+}
+.go-back-btn:hover{
+    background-color: #E7B85B;
+    color: #00589C;
+}
+.info-header,
+.info-objective,
+.info-skill,
+.info-project,
+.info-experience,
+.info-education,
+.info-interest{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.img-sec{
+    width: 100%;
+    text-align: center;
+}
+.passport-img{
+    width: 85%;
+    border: 4px solid #D2D2D2;
+    border-radius: 3px;
+    padding: 8px;
+    background-color: #333333;
+}
+.name{
+    margin-bottom: 18px;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #7B9AC8;
+}
+.title-info{
+    font-size: 18px;
+    font-weight: bold;
+    color: #444444;
+}
+.address-img{
+    margin-right: 5px;
+}
+.address-para{
+    margin-bottom: 5px;
+}
+.download-sec{
+    text-align: center;
+}
+.download-img{
+    margin: 0 5px;
+}
+.objective-head,
+.skill-head,
+.project-head,
+.experience-head,
+.education-head,
+.interest-head{
+    color: #7B9AC8;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.objective-para{
+    margin-bottom: 0px;
+}
+.skill-title,
+.project-title,
+.experience-title,
+.education-title{
+    text-align: right;
+    color: #B0B2B6;
+    font-weight: bold;
+}
+.skill-list,
+.interest-list{
+    margin-bottom: 0px;
+    display: inline-flex;
+}
+.list-link{
+    margin: 0 20px;
+}
+.project-para,
+.experience-para,
+.education-para{
+    margin-bottom: 0px;
+}
+.project-link{
+    font-style: italic;
+}
+.experience-semi-para,
+.education-semi-para{
+    color: #B0B2B6;
+}
